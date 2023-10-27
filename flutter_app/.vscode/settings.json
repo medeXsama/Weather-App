@@ -1,0 +1,6 @@
+{
+    "cmake.configureOnOpen": true,
+    "yaml.schemas": {
+        "https://json.schemastore.org/pubspec.json": "file:///c%3A/Users/USER/OneDrive/Desktop/KULIAHHH/Semester%203/AI/UTS/APP/flutter_app/pubspec.yaml"
+    }
+}
